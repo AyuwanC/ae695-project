@@ -1,0 +1,5 @@
+analysis,rank,index,singular_values
+controllability,2,2,[1035.13141985   26.619081  ]
+yaw_observability,2,2,[6.5084507  0.09833369]
+lateral_velocity_observability,2,2,
+both_measurements_observability,2,2,
