@@ -1,0 +1,2 @@
+"""Vehicle model package."""
+
